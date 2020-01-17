@@ -6,3 +6,4 @@
 REPORT Z_LOCAL_GIT_TEST.
 
 WRITE 'hello, world!'.
+WRITE 'ауыоа'.
